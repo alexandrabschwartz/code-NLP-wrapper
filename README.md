@@ -1,5 +1,5 @@
 # code-NLP-wrapper
-Wrapper to provide unified call for different NLP solvers in MATLAB. The included functions are described below. 
+Wrapper to provide a unified call for different NLP solvers in MATLAB. The included functions are described below. 
 
 I did test this code, but it may still contain bug. If you find errors or havee suggestions for improvements, please let me know.
 
