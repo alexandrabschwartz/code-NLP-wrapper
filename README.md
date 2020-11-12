@@ -1,7 +1,7 @@
 # code-NLP-wrapper
 Wrapper to provide a unified call for different NLP solvers in MATLAB. The included functions are described below. 
 
-I did test this code, but it may still contain bug. If you find errors or havee suggestions for improvements, please let me know.
+I did test this code, but it may still contain bugs. If you find errors or have suggestions for improvements, please let me know.
 
 ## solveNLP
 This function takes a nonlinear optimization problem as well as optional options as input. Within the options, you can specify which NLP solver you want to use. At them moment, FMINCON, FMINUNC and SNOPT are possible. The function then passes the problem on to a call-function for the specified NLP solver.
